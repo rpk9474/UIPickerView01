@@ -21,7 +21,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         // Delegate & ViewController 연결
         myPickerView.delegate = self
         myPickerView.dataSource = self
-        
+        //asd
         outLabel.text = color[0]
     }
     
